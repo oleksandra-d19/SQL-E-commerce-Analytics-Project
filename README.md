@@ -1,6 +1,5 @@
 # SQL E-commerce Sales & Customer Analytics
 Advanced SQL data analytics project evaluating financial performance, customer spending habits, and channel efficiency for an e-commerce platform using PostgreSQL.
-# SQL E-commerce Sales & Customer Analytics
 
 ## 📌 Project Overview
 A data-driven analytics project dedicated to evaluating the financial and operational performance of an e-commerce business. The analysis processes transactional data across multiple store formats to extract behavioral trends, measure store efficiency, and identify high-value customer cohorts.
